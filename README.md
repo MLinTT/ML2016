@@ -4,7 +4,7 @@
 
 
 ## Torch 추가 설치가 필요한 package
-### Data formats
+### 1. Data formats
 * [matio](https://github.com/soumith/matio-ffi.torch)
   * .mat 파일 로딩용
 * [csvigo](https://github.com/clementfarabet/lua---csv)
